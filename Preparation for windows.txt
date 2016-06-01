@@ -1,0 +1,18 @@
+Download numpy-1.10.4+mkl-cp27-cp27m-win_amd64.whl
+And scipy-0.17.1-cp27-cp27m-win_amd64.whl
+On the websit
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+
+Then
+Pip install numpy-1.10.4+mkl-cp27-cp27m-win_amd64.whl
+Pip install scipy-0.17.1-cp27-cp27m-win_amd64.whl
+
+
+install sklearn: pip install scikit-learn
+
+for your reference, here’s the sklearn installation instructions
+install natural language toolkit: pip install nltk
+Get the Intro to Machine Learning source code. You will need git to clone the repository: 
+git clone https://github.com/udacity/ud120-projects.git
+
+You only have to do this once, the code base contains the starter code for all the mini-projects. Go into the tools/ directory, and run startup.py. It will first check for the python modules, then download and unzip a large dataset that we will use heavily later. The download/unzipping can take a while, but you don’t have to wait for it to finish in order to get started on Part 1.
